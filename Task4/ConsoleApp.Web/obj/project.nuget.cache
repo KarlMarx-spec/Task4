@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Da02FvvKr6pHccR+n94/GY3FH220tJEAasYR12SNDO4rEjsUADZR3nJ8nWJkMoZ0Yj0sGx72ThGMhbH+5y+Imw==",
+  "dgSpecHash": "nJvWstHLx8RuNNUsP1C9mUz0n5N6Y6dgzlUQXOrkDF1K1CUaoutOmfOnvw6ziYuzdDgEdKjMRg1naMv8+O0EnQ==",
   "success": true,
-  "projectFilePath": "D:\\Task4\\ConsoleApp.Web\\ConsoleApp.Web.csproj",
+  "projectFilePath": "D:\\projects2\\Task4\\ConsoleApp.Web\\ConsoleApp.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\79520\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\79520\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -26,7 +26,7 @@ namespace ConsoleApp.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<GeneralContext>(options => options.UseNpgsql("Host=localhost;Port=5432;Database=General;Username=postgres;Password=78evofoha"));
+            services.AddDbContext<GeneralContext>(options => options.UseNpgsql("Host=localhost;Port=5432;Database=General;Username=postgres;Password=password"));
             //services.AddDbContext<Data.GeneralContext>();
         }
 

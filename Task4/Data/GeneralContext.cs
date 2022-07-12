@@ -22,7 +22,7 @@ namespace Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=General;Username=postgres;Password=78evofoha");
+                optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=General;Username=postgres;Password=password");
             }
         }
 
