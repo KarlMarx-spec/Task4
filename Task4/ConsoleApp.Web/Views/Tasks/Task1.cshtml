@@ -1,0 +1,18 @@
+﻿@model List<string>
+
+    @{
+    ViewData["Title"] = "Задание 1";
+    }
+    <h2>Задание 1. Рассчитать данные о площадях и объемах каждого помещения.</h2><p></p>
+    <table class="table">
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item)</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+

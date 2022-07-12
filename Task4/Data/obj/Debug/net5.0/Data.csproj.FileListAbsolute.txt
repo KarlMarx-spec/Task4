@@ -1,0 +1,30 @@
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\bin\Debug\net5.0\Data.deps.json
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\bin\Debug\net5.0\Data.dll
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\bin\Debug\net5.0\ref\Data.dll
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\bin\Debug\net5.0\Data.pdb
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\Data.dll
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\ref\Data.dll
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\Data.pdb
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+D:\4 kurs\Bootcamp\Bootcamp\Task3 (web)\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+D:\Task4\Data\bin\Debug\net5.0\Data.deps.json
+D:\Task4\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+D:\Task4\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+D:\Task4\Data\bin\Debug\net5.0\Data.dll
+D:\Task4\Data\bin\Debug\net5.0\ref\Data.dll
+D:\Task4\Data\bin\Debug\net5.0\Data.pdb
+D:\Task4\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+D:\Task4\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task4\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\Task4\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\Task4\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\Task4\Data\obj\Debug\net5.0\Data.dll
+D:\Task4\Data\obj\Debug\net5.0\ref\Data.dll
+D:\Task4\Data\obj\Debug\net5.0\Data.pdb
+D:\Task4\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
